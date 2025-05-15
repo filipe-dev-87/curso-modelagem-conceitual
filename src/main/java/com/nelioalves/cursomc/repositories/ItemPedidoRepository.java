@@ -8,5 +8,5 @@ import com.nelioalves.cursomc.domain.ItemPedidoPK;
 
 @Repository
 public interface ItemPedidoRepository extends JpaRepository<ItemPedido, ItemPedidoPK> {
-
+	
 }
